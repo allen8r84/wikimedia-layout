@@ -32,9 +32,6 @@ html, body {
     width: 95%;
     margin: 0 auto;
 }
-.clear {
-    clear: both;
-}
 .imageRow {
     display: flex;
     flex-direction: row;
